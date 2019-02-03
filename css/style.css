@@ -69,6 +69,10 @@ a {
     vertical-align:baseline;
     background:transparent;
 }
+.offpage {
+    position: absolute;
+    left: -1000px;
+}
 
 /* change colours to suit your needs */
 ins {
